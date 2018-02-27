@@ -24,4 +24,13 @@
 		<item value="org.scala.tools.eclipse.search.feature:0.6.0.v-2_12-201709291429-a02665c"/>
 		<item value="org.scalaide.worksheet.feature:0.7.0.v-2_12-201709291417-5d5e039"/>
 	</list>
+	<section name="CleanDialogSettings">
+		<item value="662" key="DIALOG_WIDTH"/>
+		<item value="false" key="BUILD_ALL"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="527" key="DIALOG_HEIGHT"/>
+		<item value="629" key="DIALOG_X_ORIGIN"/>
+		<item value="214" key="DIALOG_Y_ORIGIN"/>
+		<item value="true" key="BUILD_NOW"/>
+	</section>
 </section>
